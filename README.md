@@ -32,7 +32,8 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn
 5. **Insights & Interpretation** – Identifying strengths and weaknesses in student responses 
 
 ## Sample Dashboard
-"C:\Users\Safrin\Pictures\Screenshots\Screenshot 2025-08-01 162012.png"
+<img width="1371" height="770" alt="image" src="https://github.com/user-attachments/assets/b09a2ff6-9e16-492b-80cd-15beaf479061" />
+
 
 
 ## 📈 Key Results
@@ -60,3 +61,4 @@ The findings provide valuable insights for improving teaching quality, learning 
 
 👩‍💻 **Internship:** Future Interns – Data Science & Analytics Internship  
 📌 **Task Completed:** Task 3 – Student Feedback Analysis  
+
